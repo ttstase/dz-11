@@ -10,7 +10,6 @@ public class ManTest {
         man = new Man ("Vasyl", "Petrenko", 64);
     }
 
-
     @Test
     public void testGetFirstName() {
             String firstName = man.getFirstName();

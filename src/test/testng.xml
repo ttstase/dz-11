@@ -39,7 +39,6 @@
                     <include name="testGetWomanPartnerAge"/>
                 </methods>
             </class>
-
         </classes>
     </test>
-    </suite>
+</suite>
